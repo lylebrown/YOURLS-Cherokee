@@ -1,4 +1,4 @@
-What your Cherokee config for [YOURLS](https://github.com/YOURLS/YOURLS), a self-hosted URL shortener, may look like - heavily based off of a guide by Jeff on UtuTech ([Link through Wayback Machine](https://web.archive.org/web/20110210161520/http://www.ututech.com/2010/10/configuring-yourls-to-work-with-cherokee-web-server/))
+What your [Cherokee Web Server](http://cherokee-project.com/) config for [YOURLS](https://github.com/YOURLS/YOURLS), a self-hosted URL shortener, may look like - heavily based off of a guide by Jeff on UtuTech ([Link through Wayback Machine](https://web.archive.org/web/20110210161520/http://www.ututech.com/2010/10/configuring-yourls-to-work-with-cherokee-web-server/))
 
 ## Configure YOURLS
 
